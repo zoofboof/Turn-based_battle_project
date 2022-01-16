@@ -3,7 +3,7 @@ Working on a project for an JRPG style turn-based battle system using pygame
 
                                                                     ## Currently in Development ##
                                                                     
-                                                                    -Main Menu System
+                                                                    -Main Menu System - DONE
                                                                     -Inventory Menu System
                                                                     -Shop Menu System
                                                                     -Different Enemies
